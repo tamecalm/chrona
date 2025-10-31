@@ -6,8 +6,7 @@
 
 A modern, interactive command-line application built with Go that provides a real-time timezone clock with integrated weather information. Chrona automatically detects your location or allows you to manually select from a comprehensive list of cities worldwide, delivering accurate time and current weather conditions in a beautifully formatted terminal interface.
 
-
-*(A sample view of the Chrona real-time clock and weather display for New York.)*
+![App Screenshot](images/demo.png)
 
 ## ✨ Features
 
